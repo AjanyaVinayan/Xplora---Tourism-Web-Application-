@@ -31,4 +31,5 @@ This project also includes a machine learning model for prediction/analysis.
    python manage.py runserver
 
 ## 📷 Screenshot
+Main Page 
 Screenshot 2025-02-16 032143.png
