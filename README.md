@@ -40,3 +40,12 @@ This project also includes a machine learning model for prediction/analysis.
 
 ### User Dashboard
 ![User Dashboard](https://raw.githubusercontent.com/AjanyaVinayan/Xplora---Tourism-Web-Application-/main/User%20dashboard.png)
+
+## 🌟 Key Features
+- Tourism destination exploration
+- Machine learning-based prediction
+- User dashboard
+- Chatbot support
+
+## 🎯 Use Case
+This application helps users discover travel destinations and get intelligent recommendations.
