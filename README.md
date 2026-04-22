@@ -32,4 +32,4 @@ This project also includes a machine learning model for prediction/analysis.
 
 ## 📷 Screenshot
 Main Page 
-Screenshot 2025-02-16 032143.png
+https://github.com/AjanyaVinayan/Xplora---Tourism-Web-Application-/blob/main/Screenshot%202025-02-16%20032143.png
