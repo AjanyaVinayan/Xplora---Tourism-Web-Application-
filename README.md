@@ -30,7 +30,13 @@ This project also includes a machine learning model for prediction/analysis.
 2. Run project:
    python manage.py runserver
 
- 
-## 📷 Screenshot
+ ## 📷 Screenshots
 
+### Chatbot Page
+![Chatbot Page](https://raw.githubusercontent.com/AjanyaVinayan/Xplora---Tourism-Web-Application-/main/Chatbot%20page.png)
+
+### Main Page
 ![Main Page](https://raw.githubusercontent.com/AjanyaVinayan/Xplora---Tourism-Web-Application-/main/Screenshot%202025-02-16%20032143.png)
+
+### User Dashboard
+![User Dashboard](https://raw.githubusercontent.com/AjanyaVinayan/Xplora---Tourism-Web-Application-/main/User%20dashboard.png)
